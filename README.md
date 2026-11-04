@@ -6,3 +6,4 @@ Repositorio para la tarea de Git y GitHub
 - Aprender a crear repositorios.
 - Registrar cambios mediante commits.
 - Utilizar GitHub para almacenar proyectos.
+"tercera Modificacion para la tarea"
